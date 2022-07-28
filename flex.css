@@ -46,7 +46,7 @@ section div {
 section p {
 	font-style: italic;
 	width: 440px;
-	height: 344px;
+	height: 340px;
 	margin: 0;
 	overflow: scroll;
 	/* text-align: justify; */
@@ -63,7 +63,7 @@ section button {
 	color: white;
 	width: 150px;
 	padding: 5px;
-	margin-top: 3px;
+	margin-top: 7px;
 }
 footer {
 	width: 100%;
